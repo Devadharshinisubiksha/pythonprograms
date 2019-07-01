@@ -1,4 +1,4 @@
-name=raw_input("enter the string")
+name=arrahman
 if name.isalpha() == True:
    print("alphabets")
 else:
