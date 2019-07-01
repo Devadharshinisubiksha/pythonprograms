@@ -1,7 +1,7 @@
-string=raw_input("Enter string:")
-vowels=0
-for j in string:
-      if(j=='a' or i=='e' or i=='i' or i=='o' or i=='u' or i=='A' or i=='E' or i=='I' or i=='O' or i=='U'):
-            vowels=vowels+1
-print("Number of vowels are:")
-print(vowels)
+d=input("")
+if d=='a'or d=='e'or d=='i'or d=='o'or d=='u'or d=='A'or d=='E'or d=='I'or d=='O'or d=='U':
+   print("Vowel")
+elif d=='z'or d=='b'or d=='c'or d=='f'or d=='g'or d=='Z'or d=='B'or d=='C'or d=='F'or d=='G':   
+   print("Consonant")
+else:
+   print("invalid")
