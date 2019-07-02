@@ -1,3 +1,3 @@
-a=int(input(" "))
-s="hello"
-print(s*a)
+n= int(input ("Enter Number: "))
+for i in range(n):
+print("hello")
