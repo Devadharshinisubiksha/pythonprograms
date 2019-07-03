@@ -3,4 +3,4 @@ a=list(map(int,input().split()))
 sum=0
 for i in range(a2):
   sum=sum+a[i]
-print(sum)  
+print(sum) 
