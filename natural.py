@@ -1,5 +1,5 @@
-l=int(input())
-m=0
-for o in range(x+1):
-    m+=o
-print(m)
+x= int(input())
+sum = 0
+for x in range(0,x+1,1):
+  sum+=x
+print(sum)
