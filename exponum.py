@@ -1,2 +1,2 @@
-v,r=list(map(int,input().split()))
-print(pow(v,r))
+v,s=list(map(int,input().split()))
+print(pow(v,s))
