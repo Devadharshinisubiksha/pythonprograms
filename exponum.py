@@ -1,3 +1,2 @@
-s,p=map(int, input().split())
-y=s**p
-print(y)
+v,r=list(map(int,input().split()))
+print(pow(v,r))
