@@ -1,4 +1,4 @@
-n1,n2=map(int,input().split())
-for n3 in range(n1+1,n2):
-	if(n3%2!=0):
-		print(n3)
+a1,a2=map(int,input().split())
+for a3 in range(a1+1,a2):
+	if(a3%2!=0):
+		print(a3)
