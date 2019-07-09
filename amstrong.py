@@ -7,4 +7,4 @@ for d in range(b+1,c):
         sum+=dig**3
         num//=10
         if(d==sum):
-            print(d)
+            print(d,ends=" ")
